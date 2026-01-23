@@ -17,3 +17,6 @@
 	path = EDO
 	url = https://github.com/claudialbzz/EDO.git
 # Hay un problema con submodulo FUSO???
+[submodule "Metodos"]
+	path = Metodos
+	url = https://github.com/claudialbombin/metodos-numericos.git
