@@ -20,3 +20,9 @@
 [submodule "Metodos"]
 	path = Metodos
 	url = https://github.com/claudialbombin/metodos-numericos.git
+[submodule "Machine"]
+	path = Machine
+	url = https://github.com/claudialbombin/aprendizaje-automatico.git
+[submodule "Sistemas"]
+	path = Sistemas
+	url = https://github.com/claudialbombin/Sistemas-electronicos.git
