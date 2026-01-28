@@ -26,3 +26,6 @@
 [submodule "Sistemas"]
 	path = Sistemas
 	url = https://github.com/claudialbombin/Sistemas-electronicos.git
+[submodule "BBDD"]
+	path = BBDD
+	url = https://github.com/claudialbombin/bases-datos.git
